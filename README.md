@@ -1,3 +1,4 @@
 # The Orb app for Facebook XR Hackathon
 
-[Watch the video](https://github.com/hawkwood/FBXRH_TheOrb/blob/main/TheOrb_Demo.mp4)
+Demo Video
+[![The Orb Demo video](https://i.ytimg.com/vi/XBGtawRVBrI/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUYu-J5ouohBe2pMR34c-lT9YBOw)](http://www.youtu.be/XBGtawRVBrI)
